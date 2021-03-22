@@ -1,0 +1,6 @@
+alias pacman="sudo pacman"
+alias dls="docker container list"
+alias w="cd ~/workspace"
+alias ll="ls -la"
+alias gs="git status"
+alias gco="git checkout"
